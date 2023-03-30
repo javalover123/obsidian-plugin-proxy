@@ -37,6 +37,12 @@
       "download": "https://github.com/",
       "raw": "https://raw.githubusercontent.com/",
       "page": "https://github.com/"
+    },
+    {
+      "id": "v2ray",
+      "download": "http://localhost:1987/proxy/https://github.com/",
+      "raw": "http://localhost:1987/proxy/https://raw.githubusercontent.com/",
+      "page": "http://localhost:1987/proxy/https://github.com/"
     }
   ]
 }
